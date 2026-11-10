@@ -60,7 +60,6 @@ Small text uses emerald-700 or darker to keep WCAG AA contrast. Bright emerald i
 
 - White base with a fine 1px grid or dot texture at 3–4% opacity in the hero (engineering signal, not a gradient blob).
 - Portrait in a tall 4:5 frame with an **arched top** and a thin offset emerald outline. The neutral grey studio background is kept.
-- Floating credential chips over the portrait: *Professional Technologist*, *TOGAF ADM*, *Claude Code*.
 - Cards: 16px radius, 1px border, hover lift 3px with emerald border. Soft shadows only.
 - Metrics set large in the serif face.
 
