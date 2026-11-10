@@ -20,7 +20,7 @@ The page is a hybrid: it earns credibility as an executive portfolio (experience
 
 ### Content notes
 
-- The PDF lists **Enterprise Architecture / TOGAF ADM** as skills and **Graduate Technologist** as a certification. It does **not** list a "Certified TOGAF Practitioner" credential, so TOGAF ADM is presented as a skill, not a certification.
+- The PDF lists **Enterprise Architecture / TOGAF ADM** as skills and **Professional Technologist** as a certification. It does **not** list a "Certified TOGAF Practitioner" credential, so TOGAF ADM is presented as a skill, not a certification.
 - PETRONAS (2012–2017) was an HR role and is condensed in the timeline.
 - Pisyek Studios (2011–present) is shown as a parallel, ongoing practice alongside full-time roles.
 - Metrics come directly from the profile: 3 days → 1 day bugfix/review cycles (≈67% faster), API response from minutes to under one second, 100+ developers trained since 2021.
@@ -60,7 +60,7 @@ Small text uses emerald-700 or darker to keep WCAG AA contrast. Bright emerald i
 
 - White base with a fine 1px grid or dot texture at 3–4% opacity in the hero (engineering signal, not a gradient blob).
 - Portrait in a tall 4:5 frame with an **arched top** and a thin offset emerald outline. The neutral grey studio background is kept.
-- Floating credential chips over the portrait: *Graduate Technologist*, *TOGAF ADM*, *Claude Code*.
+- Floating credential chips over the portrait: *Professional Technologist*, *TOGAF ADM*, *Claude Code*.
 - Cards: 16px radius, 1px border, hover lift 3px with emerald border. Soft shadows only.
 - Metrics set large in the serif face.
 
@@ -122,7 +122,7 @@ Current roles get a small "Current" pill.
 
 Feature card for *Belajar Laravel Melalui Contoh* with a CSS-built book cover (no image needed), workshop list, and the 100+ trained proof. Link to pisyek.com.
 
-Below: grouped skill chips — Languages & frameworks, Data, DevOps & cloud, Architecture, AI & tooling — plus certification cards (Graduate Technologist, Claude 101, AI Capabilities and Limitations, AI Essentials for Frontliners).
+Below: grouped skill chips — Languages & frameworks, Data, DevOps & cloud, Architecture, AI & tooling — plus certification cards (Professional Technologist, Claude 101, AI Capabilities and Limitations, AI Essentials for Frontliners).
 
 ### 08 — Contact (deep emerald panel)
 
